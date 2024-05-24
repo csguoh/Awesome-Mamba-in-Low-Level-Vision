@@ -14,21 +14,12 @@
 
 
 ### Image Restoration
-+ [A Simple Baseline for Image Restoration with State-space Model](https://arxiv.org/abs/2402.15648) (Feb, 2024)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15648)
-
-
-+ [A Simple Baseline for Image Restoration with State-space Model](https://arxiv.org/abs/2402.15648) (Feb, 2024)
+- [A Simple Baseline for Image Restoration with State-space Model](https://arxiv.org/abs/2402.15648) (Feb, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15648)
 
 
 - [Vmambair: Visual state space model for image restoration]()
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]()
-
-
-+ [TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models](https://arxiv.org/abs/2403.17005) (CVPR 2024)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17005)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://trip-i2v.github.io/TRIP/)
 
 
 - [CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration]()
