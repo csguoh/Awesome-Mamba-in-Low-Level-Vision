@@ -8,7 +8,20 @@
 
 ## Table of Contents <!-- omit in toc -->
 - [Image Restoration](#image-restoration)
+- [Image Super-resolution](#image-super-resolution)
+- [Image Deraining](#image-deraining)
+- [Image Dehazing](#image-dehazing)
+- [Low-light Image Enhancement](#low-light-image-enhancement)
+- [Image Fusion](#image-fusion)
+- [Remote Sensing Image](#remote-sensing-image)
+- [Hyperspectral Image](#hyperspectral-image)
 - [UnderWater Image](#underwater-image)
+
+
+
+
+
+
 
 
 
@@ -50,7 +63,7 @@
 
 
 
-### Iamge Deraining
+### Image Deraining
 - [FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining](https://arxiv.org/abs/2404.09476) (Apr, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09476)
 
