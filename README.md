@@ -7,8 +7,8 @@
 
 
 ## Table of Contents <!-- omit in toc -->
-
-
+- [Image Restoration](#image-restoration)
+- [UnderWater Image](#underwater-image)
 
 
 
