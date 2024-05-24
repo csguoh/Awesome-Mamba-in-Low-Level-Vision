@@ -127,6 +127,22 @@
 [![Star](https://img.shields.io/github/stars/Guan-MS/WaterMamba.svg?style=social&label=Star)](https://github.com/Guan-MS/WaterMamba)
 
 
+## Contribution
+
+### Contributors
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning" />
+</a>
+
+### Contributing to this paper list
+
+- Here is the tutorial of [contributing to others projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
+-  First, think about which category the work should belong to.
+-  Second, use the same format as the others to describe the work. Note that there should be two empty spaces between the title and the arixv icon. You can follow the previous readme format to creat new arxiv/github icons by simply replacing the url. 
+-  Then, add [keywords tags](#keywords-convention). Add the pdf link of the paper. If it is an arxiv publication, we prefer /abs/ format to /pdf/ format.
 
 
 
