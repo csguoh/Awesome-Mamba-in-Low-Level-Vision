@@ -5,7 +5,6 @@
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 
-
 ## Table of Contents <!-- omit in toc -->
 - [Image Restoration](#image-restoration)
 - [Image Super-resolution](#image-super-resolution)
@@ -20,17 +19,10 @@
 
 
 
-
-
-
-
-
-
 ### Image Restoration
 - [A Simple Baseline for Image Restoration with State-space Model](https://arxiv.org/abs/2402.15648) (Feb, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15648)
   [![Star](https://img.shields.io/github/stars/csguoh/MambaIR.svg?style=social&label=Star)](https://github.com/csguoh/MambaIR)
-
 
 
 - [Vmambair: Visual State Space Model for Image Restoration](https://arxiv.org/abs/2403.11423) (Mar, 2024)  
@@ -38,17 +30,12 @@
 [![Star](https://img.shields.io/github/stars/AlphacatPlus/VmambaIR.svg?style=social&label=Star)](https://github.com/AlphacatPlus/VmambaIR)
 
 
-
 - [Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models](https://arxiv.org/abs/2403.17902) (Mar, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17902)
 
 
-
-
 - [CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration](https://arxiv.org/abs/2404.11778) (Apr, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.11778)
-
-
 
 
 ### Image Super-resolution
@@ -62,18 +49,16 @@
 [![Star](https://img.shields.io/github/stars/yongsongH/IRSRMamba.svg?style=social&label=Star)](https://github.com/yongsongH/IRSRMamba)
 
 
-
 ### Image Deraining
 - [FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining](https://arxiv.org/abs/2404.09476) (Apr, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09476)
-
-
 
 
 ### Image Dehazing
 - [U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/abs/2402.04139) (Feb, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.04139)
 [![Star](https://img.shields.io/github/stars/zzr-idam/UVM-Net.svg?style=social&label=Star)](https://github.com/zzr-idam/UVM-Net)
+
 
 ### Low-light Image Enhancement
 - [Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement](https://arxiv.org/abs/2405.03349) (May, 2024)  
@@ -97,7 +82,6 @@
 [![Star](https://img.shields.io/github/stars/millieXie/FusionMamba.svg?style=social&label=Star)](https://github.com/millieXie/FusionMamba)
 
 
-
 ### Remote Sensing Image
 - [RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing](https://arxiv.org/abs/2405.10030) (May, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.10030)
@@ -105,8 +89,6 @@
 
 - [Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution](https://arxiv.org/abs/2405.04964) (May, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.04964)
-
-
 
 
 ### Hyperspectral Image
@@ -117,8 +99,6 @@
 
 - [Hsidmamba: Exploring bidirectional state-space models for hyperspectral denoising](https://arxiv.org/abs/2404.09697) (Apr, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09697)
-
-
 
 
 ### UnderWater Image
@@ -133,16 +113,19 @@
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://github.com/jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning" />
+<a href="https://github.com/csguoh/Awesome-Mamba-in-Low-Level-Vision/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=csguoh/Awesome-Mamba-in-Low-Level-Vision" />
 </a>
 
 ### Contributing to this paper list
 
 - Here is the tutorial of [contributing to others projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
 -  First, think about which category the work should belong to.
--  Second, use the same format as the others to describe the work. Note that there should be two empty spaces between the title and the arixv icon. You can follow the previous readme format to creat new arxiv/github icons by simply replacing the url. 
--  Then, add [keywords tags](#keywords-convention). Add the pdf link of the paper. If it is an arxiv publication, we prefer /abs/ format to /pdf/ format.
+-  Second, use the same format as the others to describe the work. Note that there should be two spaces between the title and the arixv icon. You can follow the previous readme format to creat new arxiv/github icons by simply replacing the url. 
+
+
+
+
 
 
 
