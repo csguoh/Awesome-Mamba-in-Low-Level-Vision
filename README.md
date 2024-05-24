@@ -1,5 +1,11 @@
 # Awesome-Mamba-in-Low-Level-Vision
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/csguoh/Awesome-Mamba-in-Low-Level-Vision) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
+
+
+
 ## Table of Contents
 
 
@@ -8,10 +14,29 @@
 
 
 ### Image Restoration
-- A simple baseline for image restoration with state-space model
-- Vmambair: Visual state space model for image restoration
-- CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration
-- Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models
++ [A Simple Baseline for Image Restoration with State-space Model](https://arxiv.org/abs/2402.15648) (Feb, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15648)
+
+
++ [A Simple Baseline for Image Restoration with State-space Model](https://arxiv.org/abs/2402.15648) (Feb, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15648)
+
+
+- [Vmambair: Visual state space model for image restoration]()
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]()
+
+
++ [TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models](https://arxiv.org/abs/2403.17005) (CVPR 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17005)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://trip-i2v.github.io/TRIP/)
+
+
+- [CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration]()
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]()
+
+
+- [Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models]()
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]()
 
 
 ### Super-resolution
