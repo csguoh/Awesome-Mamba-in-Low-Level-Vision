@@ -10,6 +10,7 @@
 - [Image Super-resolution](#image-super-resolution)
 - [Image Deraining](#image-deraining)
 - [Image Dehazing](#image-dehazing)
+- [Image Deblurring](#image-deblurring)
 - [Low-light Image Enhancement](#low-light-image-enhancement)
 - [Image Fusion](#image-fusion)
 - [Remote Sensing Image](#remote-sensing-image)
@@ -58,6 +59,11 @@
 - [U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/abs/2402.04139) (Feb, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.04139)
 [![Star](https://img.shields.io/github/stars/zzr-idam/UVM-Net.svg?style=social&label=Star)](https://github.com/zzr-idam/UVM-Net)
+
+
+### Image Deblurring
+- [Efficient Visual State Space Model for Image Deblurring](https://arxiv.org/pdf/2405.14343) (May, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2405.14343)
 
 
 ### Low-light Image Enhancement
