@@ -12,6 +12,7 @@
 - [Image Dehazing](#image-dehazing)
 - [Image Deblurring](#image-deblurring)
 - [Low-light Image Enhancement](#low-light-image-enhancement)
+- [Image Compression](#image-compression)
 - [Image Fusion](#image-fusion)
 - [Remote Sensing Image](#remote-sensing-image)
 - [Hyperspectral Image](#hyperspectral-image)
@@ -70,6 +71,17 @@
 - [Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement](https://arxiv.org/abs/2405.03349) (May, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.03349)
 [![Star](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba.svg?style=social&label=Star)](https://github.com/YhuoyuH/RetinexMamba)
+
+### Image Compression
+
+- [MambaVC: Learned Visual Compression with Selective State Spaces](https://www.arxiv.org/abs/2405.15413) (May, 2024)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2405.15413)
+[![Star](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba.svg?style=social&label=Star)](https://github.com/QinSY123/MambaVC)
+
+
+
+
+
 
 
 ### Image Fusion
