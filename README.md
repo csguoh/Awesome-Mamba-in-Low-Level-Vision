@@ -76,7 +76,7 @@
 
 - [MambaVC: Learned Visual Compression with Selective State Spaces](https://www.arxiv.org/abs/2405.15413) (May, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2405.15413)
-[![Star](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba.svg?style=social&label=Star)](https://github.com/QinSY123/MambaVC)
+[![Star](https://img.shields.io/github/stars/QinSY123/MambaVC.svg?style=social&label=Star)](https://github.com/QinSY123/MambaVC)
 
 
 
