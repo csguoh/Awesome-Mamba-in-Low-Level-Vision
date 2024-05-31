@@ -55,6 +55,9 @@
 - [FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining](https://arxiv.org/abs/2404.09476) (Apr, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09476)
 
+- [Image Deraining with Frequency-Enhanced State Space Model](https://arxiv.org/abs/2405.16470) (May, 2024)  
+- [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16470)
+
 
 ### Image Dehazing
 - [U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/abs/2402.04139) (Feb, 2024)   
@@ -72,13 +75,17 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.03349)
 [![Star](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba.svg?style=social&label=Star)](https://github.com/YhuoyuH/RetinexMamba)
 
+- [MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space](https://mamballie.github.io/anon/) (May, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2405.16105v1)
+[![Star](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba.svg?style=social&label=Star)](https://mamballie.github.io/anon/)
+
+
+
 ### Image Compression
 
 - [MambaVC: Learned Visual Compression with Selective State Spaces](https://www.arxiv.org/abs/2405.15413) (May, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2405.15413)
 [![Star](https://img.shields.io/github/stars/QinSY123/MambaVC.svg?style=social&label=Star)](https://github.com/QinSY123/MambaVC)
-
-
 
 
 
