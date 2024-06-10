@@ -131,6 +131,14 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09697)
 
 
+- [Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging](https://arxiv.org/abs/2405.01726) (June, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.00449)
+[![Star](https://img.shields.io/github/stars/JiahuaDong/DHM.svg?style=social&label=Star)](https://github.com/JiahuaDong/DHM)
+
+
+
+
+
 ### UnderWater Image
 - [WaterMamba: Visual State Space Model for Underwater Image Enhancement](https://arxiv.org/abs/2405.08419) (May, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.08419)
@@ -145,7 +153,9 @@
 
 
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=csguoh/Awesome-Mamba-in-Low-Level-Vision&type=Date)](https://star-history.com/#csguoh/Awesome-Mamba-in-Low-Level-Vision&Date)
 
 
 
