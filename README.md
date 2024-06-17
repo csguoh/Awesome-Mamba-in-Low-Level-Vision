@@ -145,6 +145,12 @@
 [![Star](https://img.shields.io/github/stars/Guan-MS/WaterMamba.svg?style=social&label=Star)](https://github.com/Guan-MS/WaterMamba)
 
 
+- [PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement](https://arxiv.org/pdf/2406.08444) (June, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.08444)
+[![Star](https://img.shields.io/github/stars/weitunglin/pixmamba.svg?style=social&label=Star)](https://github.com/weitunglin/pixmamba)
+
+
+
 ## Contributing to this repo
 
 - Here is the tutorial of [contributing to others projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
