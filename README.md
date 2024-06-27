@@ -17,7 +17,7 @@
 - [Remote Sensing Image](#remote-sensing-image)
 - [Hyperspectral Image](#hyperspectral-image)
 - [UnderWater Image](#underwater-image)
-
+- [Image Quality Assessment](#image-quality-assessment)
 
 
 
@@ -148,6 +148,21 @@
 - [PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement](https://arxiv.org/pdf/2406.08444) (June, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.08444)
 [![Star](https://img.shields.io/github/stars/weitunglin/pixmamba.svg?style=social&label=Star)](https://github.com/weitunglin/pixmamba)
+
+
+
+
+### Image Quality Assessment
+- [Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment](https://arxiv.org/pdf/2406.09546) (June, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.09546)
+
+
+
+
+
+### Others 
+- [LFMamba: Light Field Image Super-Resolution with State Space Model](https://arxiv.org/pdf/2406.12463) (June, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.12463)
 
 
 
