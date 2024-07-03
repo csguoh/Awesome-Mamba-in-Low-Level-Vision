@@ -22,7 +22,7 @@
 
 
 ### Image Restoration
-- [A Simple Baseline for Image Restoration with State-space Model](https://arxiv.org/abs/2402.15648) (Feb, 2024)  
+- [MambaIR: A Simple Baseline for Image Restoration with State-space Model](https://arxiv.org/abs/2402.15648) (ECCV 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15648)
   [![Star](https://img.shields.io/github/stars/csguoh/MambaIR.svg?style=social&label=Star)](https://github.com/csguoh/MambaIR)
 
