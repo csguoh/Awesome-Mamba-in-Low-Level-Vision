@@ -18,6 +18,8 @@
 - [Hyperspectral Image](#hyperspectral-image)
 - [UnderWater Image](#underwater-image)
 - [Image Quality Assessment](#image-quality-assessment)
+- [Medical Image](#medical-image)
+
 
 
 
@@ -156,6 +158,14 @@
 - [Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment](https://arxiv.org/pdf/2406.09546) (June, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.09546)
 
+
+### Medical Image
+- [Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution](https://arxiv.org/pdf/2407.05993) (July, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.05993)
+
+
+- [Deform-Mamba Network for MRI Super-Resolution](https://arxiv.org/pdf/2407.05969) (July, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.05969)
 
 
 
