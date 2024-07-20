@@ -87,6 +87,13 @@
 [![Star](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba.svg?style=social&label=Star)](https://mamballie.github.io/anon/)
 
 
+- [RESVMUNetX: A Low-Light Enhancement Network Based on VMamba](https://arxiv.org/pdf/2407.09553) (July, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.09553)
+
+
+
+
+
 
 ### Image Compression
 
