@@ -5,6 +5,13 @@
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 
+## News 
+
+- **2024-07-02** MambaIR is accepted by ECCV 2024!
+- **2024-07-30** FreqMamba, VmambaSCI, Wave-Mamba, RainMamba, ALGNet have been accepted by ACM MM 2024. Congratulations!
+
+
+
 ## Table of Contents <!-- omit in toc -->
 - [Image Restoration](#image-restoration)
 - [Image Super-resolution](#image-super-resolution)
@@ -19,6 +26,8 @@
 - [UnderWater Image](#underwater-image)
 - [Image Quality Assessment](#image-quality-assessment)
 - [Medical Image](#medical-image)
+- [Video Restoration](#video-restoration)
+
 
 
 
@@ -54,7 +63,7 @@
 
 
 ### Image Deraining
-- [FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining](https://arxiv.org/abs/2404.09476) (Apr, 2024)   
+- [FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining](https://arxiv.org/abs/2404.09476) (ACM MM 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09476)
 
 - [Image Deraining with Frequency-Enhanced State Space Model](https://arxiv.org/abs/2405.16470) (May, 2024)  
@@ -77,6 +86,13 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2405.14343)
 
 
+- [Learning Enriched Features via Selective State Spaces Model for Efficient Image Deblurring](https://openreview.net/pdf?id=yoofksFKk9) (ACM MM 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=yoofksFKk9)
+
+
+
+
+
 ### Low-light Image Enhancement
 - [Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement](https://arxiv.org/abs/2405.03349) (May, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.03349)
@@ -89,6 +105,12 @@
 
 - [RESVMUNetX: A Low-Light Enhancement Network Based on VMamba](https://arxiv.org/pdf/2407.09553) (July, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.09553)
+
+
+- [Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement](https://openreview.net/pdf?id=oQahsz6vWe) (ACM MM 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=oQahsz6vWe)  
+
+
 
 
 
@@ -175,11 +197,27 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.05969)
 
 
+### Video Restoration
+
+- [RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining](https://openreview.net/pdf?id=SQreBrpK2c) (ACM MM 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=SQreBrpK2c)  
+
+
+
 
 
 ### Others 
 - [LFMamba: Light Field Image Super-Resolution with State Space Model](https://arxiv.org/pdf/2406.12463) (June, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.12463)
+
+
+
+- [VmambaSCI: Dynamic Deep Unfolding Network with Mamba for Compressive Spectral Imaging](https://openreview.net/pdf?id=MNvMDbaQXa) (ACM MM 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=MNvMDbaQXa)
+
+
+
+
 
 
 
