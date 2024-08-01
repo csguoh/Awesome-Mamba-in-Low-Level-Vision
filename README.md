@@ -200,8 +200,8 @@
 ### Video Restoration
 
 - [RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining](https://openreview.net/pdf?id=SQreBrpK2c) (ACM MM 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=SQreBrpK2c)  
-
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.21773)
+[![Star](https://img.shields.io/github/stars/TonyHongtaoWu/RainMamba.svg?style=social&label=Star)](https://github.com/TonyHongtaoWu/RainMamba)
 
 
 
