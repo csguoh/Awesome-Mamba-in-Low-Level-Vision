@@ -62,6 +62,13 @@
 [![Star](https://img.shields.io/github/stars/yongsongH/IRSRMamba.svg?style=social&label=Star)](https://github.com/yongsongH/IRSRMamba)
 
 
+
+- [QMambaBSR: Burst Image Super-Resolution with Query State Space Model](https://arxiv.org/pdf/2408.08665) (Aug, 2024)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.08665)
+
+
+
+
 ### Image Deraining
 - [FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining](https://arxiv.org/abs/2404.09476) (ACM MM 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09476)
