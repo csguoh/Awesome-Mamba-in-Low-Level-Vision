@@ -68,7 +68,7 @@
 
 
 
-- [MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs](https://arxiv.org/abs/2405.09873) (Aug, 2024)   
+- [MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs](https://arxiv.org/pdf/2408.11758) (Aug, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.11758)
 [![Star](https://img.shields.io/github/stars/renyulin-f/MambaCSR.svg?style=social&label=Star)](https://github.com/renyulin-f/MambaCSR)
 
