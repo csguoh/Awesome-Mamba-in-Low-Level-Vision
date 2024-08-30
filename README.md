@@ -196,6 +196,16 @@
 [![Star](https://img.shields.io/github/stars/weitunglin/pixmamba.svg?style=social&label=Star)](https://github.com/weitunglin/pixmamba)
 
 
+- [O-Mamba: O-shape State-Space Model for Underwater Image Enhancement](https://arxiv.org/pdf/2408.12816) (Aug, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.08444)
+[![Star](https://img.shields.io/github/stars/chenydong/O-Mamba.svg?style=social&label=Star)](https://github.com/chenydong/O-Mamba)
+
+
+
+
+
+
+
 
 
 ### Image Quality Assessment
