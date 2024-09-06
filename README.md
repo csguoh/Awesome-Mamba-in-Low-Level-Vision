@@ -87,6 +87,10 @@
 - [FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining](https://arxiv.org/abs/2405.19450) (June, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.19450)
 
+  
+- [A Hybrid Transformer-Mamba Network for Single Image Deraining](https://arxiv.org/pdf/2409.00410) (Sep, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.03349)
+[![Star](https://img.shields.io/github/stars/sunshangquan/TransMamba.svg?style=social&label=Star)](https://github.com/sunshangquan/TransMamba)
 
 
 
@@ -158,6 +162,12 @@
 [![Star](https://img.shields.io/github/stars/millieXie/FusionMamba.svg?style=social&label=Star)](https://github.com/millieXie/FusionMamba)
 
 
+- [Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion](https://arxiv.org/pdf/2409.01728) (Sep, 2024)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.01728)
+
+
+
+
 ### Remote Sensing Image
 - [RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing](https://arxiv.org/abs/2405.10030) (May, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.10030)
@@ -165,6 +175,11 @@
 
 - [Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution](https://arxiv.org/abs/2405.04964) (May, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.04964)
+
+
+
+- [MambaFormerSR: A Lightweight model for Remote-Sensing Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10663411) (Sep, 2024)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10663411)
 
 
 ### Hyperspectral Image
