@@ -131,6 +131,10 @@
 
 
 
+- [Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement](https://arxiv.org/pdf/2409.07040) (Sep 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.07040)
+[![Star](https://img.shields.io/github/stars/Cynicarlos/RetinexRawMamba.svg?style=social&label=Star)](https://github.com/Cynicarlos/RetinexRawMamba)
+
 
 
 
