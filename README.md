@@ -113,11 +113,15 @@
 
 
 ### Low-light Image Enhancement
+- [ExpoMamba: ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement](https://openreview.net/forum?id=X9L6PatYhH) (July, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=X9L6PatYhH)
+[![Star](https://img.shields.io/github/stars/eashanadhikarla/ExpoMamba.svg?style=social&label=Star)](https://github.com/eashanadhikarla/ExpoMamba)
+
 - [Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement](https://arxiv.org/abs/2405.03349) (May, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.03349)
 [![Star](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba.svg?style=social&label=Star)](https://github.com/YhuoyuH/RetinexMamba)
 
-- [MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space](https://mamballie.github.io/anon/) (May, 2024)  
+- [MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space](https://mamballie.github.io/anon/) (May, 2024)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2405.16105v1)
 [![Star](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba.svg?style=social&label=Star)](https://mamballie.github.io/anon/)
 
@@ -128,8 +132,6 @@
 
 - [Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement](https://openreview.net/pdf?id=oQahsz6vWe) (ACM MM 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=oQahsz6vWe)  
-
-
 
 - [Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement](https://arxiv.org/pdf/2409.07040) (Sep 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.07040)
