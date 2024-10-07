@@ -243,6 +243,14 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.05969)
 
 
+- [MambaRecon: MRI Reconstruction with Structured State Space Models](https://arxiv.org/pdf/2409.12401) (Sep, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.12401)
+
+
+
+
+
+
 - [DenoMamba: A fused state-space model for low-dose CT denoising](https://arxiv.org/pdf/2409.13094) (Sep, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.13094)
 
