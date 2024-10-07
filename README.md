@@ -121,7 +121,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.03349)  
 [![Star](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba.svg?style=social&label=Star)](https://github.com/YhuoyuH/RetinexMamba)  
 
-- [MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space](https://mamballie.github.io/anon/) (May, 2024)
+- [MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space](https://mamballie.github.io/anon/) (May, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2405.16105v1)  
 [![Star](https://img.shields.io/github/stars/YhuoyuH/RetinexMamba.svg?style=social&label=Star)](https://mamballie.github.io/anon/)  
 
