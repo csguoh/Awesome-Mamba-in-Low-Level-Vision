@@ -243,6 +243,13 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2407.05969)
 
 
+- [DenoMamba: A fused state-space model for low-dose CT denoising](https://arxiv.org/pdf/2409.13094) (Sep, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.13094)
+
+
+
+
+
 ### Video Restoration
 
 - [RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining](https://openreview.net/pdf?id=SQreBrpK2c) (ACM MM 2024)  
