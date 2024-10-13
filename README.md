@@ -222,6 +222,9 @@
 [![Star](https://img.shields.io/github/stars/chenydong/O-Mamba.svg?style=social&label=Star)](https://github.com/chenydong/O-Mamba)
 
 
+- [UWMamba: UnderWater Image Enhancement With State Space Model](https://ieeexplore.ieee.org/abstract/document/10700679) (Oct, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10700679)
+
 
 
 
