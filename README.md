@@ -9,7 +9,7 @@
 
 - **2024-07-02** MambaIR is accepted by ECCV 2024!
 - **2024-07-30** FreqMamba, VmambaSCI, Wave-Mamba, RainMamba, ALGNet have been accepted by ACM MM 2024. Congratulations!
-- **2024-10-07** MambaLLIE have been accepted by NeurIPS 2024!
+- **2024-10-07** MambaLLIE has been accepted by NeurIPS 2024!
 
 
 ## Table of Contents <!-- omit in toc -->
