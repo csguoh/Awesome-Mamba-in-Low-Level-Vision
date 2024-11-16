@@ -51,6 +51,13 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.11778)
 
 
+
+- [Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution](https://arxiv.org/pdf/2410.10140) (Oct, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.10140)
+
+
+
+
 ### Image Super-resolution
 - [DVMSR: Distillated Vision Mamba for Efficient Super-Resolution](https://arxiv.org/abs/2405.03008v2) (May, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.03008v2)
@@ -171,6 +178,8 @@
 - [Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion](https://arxiv.org/pdf/2409.01728) (Sep, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.01728)
 
+- [FusionMamba: Efficient Remote Sensing Image Fusion with State Space Model](https://ieeexplore.ieee.org/abstract/document/10750233) (Nov, 2024)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10750233)
 
 
 
