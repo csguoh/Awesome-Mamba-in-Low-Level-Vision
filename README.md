@@ -81,9 +81,7 @@
 
 - [S^3 Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model](https://arxiv.org/pdf/2411.11906) (Nov, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.11906)
-[![Star](https://img.shields.io/github/stars/renyulin-f/MambaCSR.svg?style=social&label=Star)](https://github.com/xiapeizhe12138/S3Mamba-ArbSR)
-
-
+[![Star](https://img.shields.io/github/stars/xiapeizhe12138/S3Mamba-ArbSR.svg?style=social&label=Star)](https://github.com/xiapeizhe12138/S3Mamba-ArbSR)
 
 
 
