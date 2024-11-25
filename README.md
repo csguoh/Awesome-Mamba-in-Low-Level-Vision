@@ -10,7 +10,7 @@
 - **2024-07-02** MambaIR is accepted by ECCV 2024!
 - **2024-07-30** FreqMamba, VmambaSCI, Wave-Mamba, RainMamba, ALGNet have been accepted by ACM MM 2024. Congratulations!
 - **2024-10-07** MambaLLIE has been accepted by NeurIPS 2024!
-
+- **2024-11-25** FreMamba has been accepted by IEEE TMM!
 
 ## Table of Contents <!-- omit in toc -->
 - [Image Restoration](#image-restoration)
@@ -190,8 +190,10 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.10030)
 
 
-- [Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution](https://arxiv.org/abs/2405.04964) (May, 2024)  
+- [Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution](https://arxiv.org/abs/2405.04964) (IEEE TMM, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.04964)
+[![Star](https://img.shields.io/github/stars/XY-boy/FreMamba.svg?style=social&label=Star)](https://github.com/XY-boy/FreMamba)
+
 
 
 
