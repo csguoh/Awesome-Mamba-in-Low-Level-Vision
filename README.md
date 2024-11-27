@@ -11,6 +11,10 @@
 - **2024-07-30** FreqMamba, VmambaSCI, Wave-Mamba, RainMamba, ALGNet have been accepted by ACM MM 2024. Congratulations!
 - **2024-10-07** MambaLLIE has been accepted by NeurIPS 2024!
 - **2024-11-25** FreMamba has been accepted by IEEE TMM!
+- **2024-11-27** MambaIR has been updated to MambaIRv2, with better performance and efficiency!
+
+
+
 
 ## Table of Contents <!-- omit in toc -->
 - [Image Restoration](#image-restoration)
@@ -54,6 +58,10 @@
 
 - [Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution](https://arxiv.org/pdf/2410.10140) (Oct, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.10140)
+
+- [MambaIRv2: Attentive State Space Restoration](https://arxiv.org/pdf/2411.15269) (Nov, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.15269)
+[![Star](https://img.shields.io/github/stars/csguoh/MambaIR.svg?style=social&label=Star)](https://github.com/csguoh/MambaIR)
 
 
 
