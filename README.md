@@ -126,6 +126,10 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=yoofksFKk9)
 
 
+- [XYScanNet: An Interpretable State Space Model for Perceptual Image Deblurring](https://arxiv.org/pdf/2412.10338) (Dec, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.10338)
+
+
 
 
 
