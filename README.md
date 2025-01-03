@@ -63,6 +63,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.15269)
 [![Star](https://img.shields.io/github/stars/csguoh/MambaIR.svg?style=social&label=Star)](https://github.com/csguoh/MambaIR)
 
+- [MaIR: A Locality and Continuity Preserving Mamba for Image Restoration](https://arxiv.org/pdf/2411.15269) (Dec, 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.20066)
 
 
 
