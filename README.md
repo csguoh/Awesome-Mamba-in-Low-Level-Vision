@@ -17,7 +17,9 @@
 
 
 ## Table of Contents <!-- omit in toc -->
+
 - [Image Restoration](#image-restoration)
+- [All-in-One Image Restoration](#all-in-one-image-restoration)
 - [Image Super-resolution](#image-super-resolution)
 - [Image Deraining](#image-deraining)
 - [Image Dehazing](#image-dehazing)
@@ -31,7 +33,6 @@
 - [Image Quality Assessment](#image-quality-assessment)
 - [Medical Image](#medical-image)
 - [Video Restoration](#video-restoration)
-
 
 
 
@@ -65,6 +66,15 @@
 
 - [MaIR: A Locality and Continuity Preserving Mamba for Image Restoration](https://arxiv.org/pdf/2411.15269) (Dec, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.20066)
+
+
+
+### All-in-one Image Restoration
+
+ [RamIR: Reasoning and action prompting with Mamba for all-in-one image restoration](https://link.springer.com/article/10.1007/s10489-024-06226-y) (Jan, 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://link.springer.com/article/10.1007/s10489-024-06226-y)
+
+
 
 
 
