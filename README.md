@@ -219,10 +219,14 @@
 [![Star](https://img.shields.io/github/stars/XY-boy/FreMamba.svg?style=social&label=Star)](https://github.com/XY-boy/FreMamba)
 
 
-
-
 - [MambaFormerSR: A Lightweight model for Remote-Sensing Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10663411) (Sep, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10663411)
+
+
+- [RSMamba: Biologically Plausible Retinex-Based Mamba for Remote Sensing Shadow Removal](https://ieeexplore.ieee.org/abstract/document/10833852/) (Jan, 2025)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10833852/)
+
+
 
 
 ### Hyperspectral Image
