@@ -12,7 +12,7 @@
 - **2024-10-07** MambaLLIE has been accepted by NeurIPS 2024!
 - **2024-11-25** FreMamba has been accepted by IEEE TMM!
 - **2024-11-27** MambaIR has been updated to MambaIRv2, with better performance and efficiency!
-
+- **2025-01-24** Contrast, the novel hybrid architecture of Mamba and Transformer, has been published! Congratulations! 🎉
 
 
 
@@ -66,6 +66,9 @@
 
 - [MaIR: A Locality and Continuity Preserving Mamba for Image Restoration](https://arxiv.org/pdf/2411.15269) (Dec, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.20066)
+
+- [Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision](https://arxiv.org/pdf/2501.13353) (Jan, 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.13353)
 
 
 
