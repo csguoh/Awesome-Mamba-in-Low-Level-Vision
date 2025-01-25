@@ -111,7 +111,7 @@
 
 
 - [SRMamba-T: Exploring the hybrid Mamba-Transformer network for single image super-resolution](https://scholar.google.com.hk/scholar_url?url=https://papers.ssrn.com/sol3/Delivery.cfm%3Fabstractid%3D5029803&hl=zh-CN&sa=X&d=8563363092835299237&ei=MteTZ-fxFMHey9YP_5HSoQc&scisig=AFWwaeaQUXqvxfBgIVsqxJWViY3c&oi=scholaralrt&hist=fRwhfpoAAAAJ:1447826319281170878:AFWwaea4hbB8anZ9B2yAI3uW5lVd&html=&pos=1&folt=kw
-) (Jan, 2025)   
+) (Neurocomputing 2025)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://scholar.google.com.hk/scholar_url?url=https://papers.ssrn.com/sol3/Delivery.cfm%3Fabstractid%3D5029803&hl=zh-CN&sa=X&d=8563363092835299237&ei=MteTZ-fxFMHey9YP_5HSoQc&scisig=AFWwaeaQUXqvxfBgIVsqxJWViY3c&oi=scholaralrt&hist=fRwhfpoAAAAJ:1447826319281170878:AFWwaea4hbB8anZ9B2yAI3uW5lVd&html=&pos=1&folt=kw)
 
 
@@ -300,14 +300,12 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.12401)
 
 
-- [Visual State Space Model with Graph-Based Feature Aggregation for Blind Image Quality Assessment](Jan, 2025)
-- [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10845143)
-
-
-
-
 - [DenoMamba: A fused state-space model for low-dose CT denoising](https://arxiv.org/pdf/2409.13094) (Sep, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.13094)
+
+
+- [Visual State Space Model with Graph-Based Feature Aggregation for Blind Image Quality Assessment](IEEE TCSVT, 2025)
+- [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10845143)
 
 
 
