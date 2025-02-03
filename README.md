@@ -269,6 +269,8 @@
 [![Star](https://img.shields.io/github/stars/JiahuaDong/DHM.svg?style=social&label=Star)](https://github.com/JiahuaDong/DHM)
 
 
+- [HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution](https://arxiv.org/pdf/2501.18500) (Jan, 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.18500)
 
 
 
