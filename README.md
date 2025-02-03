@@ -224,7 +224,12 @@
 - [Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion](https://arxiv.org/pdf/2409.01728) (Sep, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.01728)
 
-- [FusionMamba: Efficient Remote Sensing Image Fusion with State Space Model](https://ieeexplore.ieee.org/abstract/document/10750233) (Nov, 2024)   
+- [FusionMamba: Efficient Remote Sensing Image Fusion with State Space Model](https://www.sciencedirect.com/science/article/pii/S1051200425000557) (Jan, 2025)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.sciencedirect.com/science/article/pii/S1051200425000557)
+
+
+
+- [FMamba: Multimodal Image Fusion Driven by State Space Models](https://ieeexplore.ieee.org/abstract/document/10750233) (Nov, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10750233)
 
 
