@@ -77,6 +77,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.16583)
 
 
+- [MatIR: A Hybrid Mamba-Transformer Image Restoration Model](https://arxiv.org/pdf/2501.18401) (Jan, 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.18401)
+[![Star](https://img.shields.io/github/stars/csguoh/MambaIR.svg?style=social&label=Star)](https://github.com/wenjuan7275/MatIR)
 
 
 
