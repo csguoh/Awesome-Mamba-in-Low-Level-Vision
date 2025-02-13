@@ -201,6 +201,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2405.15413)
 [![Star](https://img.shields.io/github/stars/QinSY123/MambaVC.svg?style=social&label=Star)](https://github.com/QinSY123/MambaVC)
 
+- [CMamba: Learned Image Compression with State Space Models](https://arxiv.org/pdf/2502.04988) (Jan, 2025)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.04988)
+
 
 
 
