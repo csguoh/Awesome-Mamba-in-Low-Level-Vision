@@ -14,8 +14,7 @@
 - **2024-11-27** MambaIR has been updated to MambaIRv2, with better performance and efficiency!
 - **2025-01-24** Contrast, the novel hybrid architecture of Mamba and Transformer, has been published! Congratulations! 🎉
 - **2025-01-25** VISGA, a novel Mamba-based Blind IQA method has been accepted by IEEE TCSVT!
-
-
+- **2025-02-27** MambaIRv2 is accepted by CVPR 2025! 🎉🎉🎉
 
 
 ## Table of Contents <!-- omit in toc -->
@@ -62,7 +61,7 @@
 - [Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution](https://arxiv.org/pdf/2410.10140) (Oct, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2410.10140)
 
-- [MambaIRv2: Attentive State Space Restoration](https://arxiv.org/pdf/2411.15269) (Nov, 2024)  
+- [MambaIRv2: Attentive State Space Restoration](https://arxiv.org/pdf/2411.15269) (CVPR2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.15269)
 [![Star](https://img.shields.io/github/stars/csguoh/MambaIR.svg?style=social&label=Star)](https://github.com/csguoh/MambaIR)
 
