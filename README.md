@@ -14,7 +14,7 @@
 - **2024-11-27** MambaIR has been updated to MambaIRv2, with better performance and efficiency!
 - **2025-01-24** Contrast, the novel hybrid architecture of Mamba and Transformer, has been published! Congratulations! 🎉
 - **2025-01-25** VISGA, a novel Mamba-based Blind IQA method has been accepted by IEEE TCSVT!
-- **2025-02-27** MambaIRv2, MaIR is accepted by CVPR 2025! 🎉🎉🎉
+- **2025-02-27** MambaIRv2 and MaIR are accepted by CVPR 2025! 🎉🎉🎉
 
 
 ## Table of Contents <!-- omit in toc -->
@@ -65,8 +65,10 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.15269)
 [![Star](https://img.shields.io/github/stars/csguoh/MambaIR.svg?style=social&label=Star)](https://github.com/csguoh/MambaIR)
 
-- [MaIR: A Locality and Continuity Preserving Mamba for Image Restoration](https://arxiv.org/pdf/2411.15269) (Dec, 2024)  
+- [MaIR: A Locality and Continuity Preserving Mamba for Image Restoration](https://arxiv.org/pdf/2411.15269) (CVPR2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.20066)
+[![Star](https://img.shields.io/github/stars/XLearning-SCU/2025-CVPR-MaIR.svg?style=social&label=Star)](https://github.com/XLearning-SCU/2025-CVPR-MaIR)
+
 
 - [Contrast: A Hybrid Architecture of Transformers and State Space Models for Low-Level Vision](https://arxiv.org/pdf/2501.13353) (Jan, 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.13353)
