@@ -82,6 +82,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.18401)
 [![Star](https://img.shields.io/github/stars/wenjuan7275/MatIR.svg?style=social&label=Star)](https://github.com/wenjuan7275/MatIR)
 
+- [RestorMamba: An Enhanced Synergistic State Space Model for Image Restoration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10889889) (ICASSP2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10889889)
 
 
 
