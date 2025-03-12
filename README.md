@@ -14,7 +14,7 @@
 - **2024-11-27** MambaIR has been updated to MambaIRv2, with better performance and efficiency!
 - **2025-01-24** Contrast, the novel hybrid architecture of Mamba and Transformer, has been published! Congratulations! 🎉
 - **2025-01-25** VISGA, a novel Mamba-based Blind IQA method has been accepted by IEEE TCSVT!
-- **2025-02-27** MambaIRv2 is accepted by CVPR 2025! 🎉🎉🎉
+- **2025-02-27** MambaIRv2, MaIR is accepted by CVPR 2025! 🎉🎉🎉
 
 
 ## Table of Contents <!-- omit in toc -->
@@ -123,6 +123,10 @@
 - [SRMamba-T: Exploring the hybrid Mamba-Transformer network for single image super-resolution](https://scholar.google.com.hk/scholar_url?url=https://papers.ssrn.com/sol3/Delivery.cfm%3Fabstractid%3D5029803&hl=zh-CN&sa=X&d=8563363092835299237&ei=MteTZ-fxFMHey9YP_5HSoQc&scisig=AFWwaeaQUXqvxfBgIVsqxJWViY3c&oi=scholaralrt&hist=fRwhfpoAAAAJ:1447826319281170878:AFWwaea4hbB8anZ9B2yAI3uW5lVd&html=&pos=1&folt=kw
 ) (Neurocomputing 2025)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://scholar.google.com.hk/scholar_url?url=https://papers.ssrn.com/sol3/Delivery.cfm%3Fabstractid%3D5029803&hl=zh-CN&sa=X&d=8563363092835299237&ei=MteTZ-fxFMHey9YP_5HSoQc&scisig=AFWwaeaQUXqvxfBgIVsqxJWViY3c&oi=scholaralrt&hist=fRwhfpoAAAAJ:1447826319281170878:AFWwaea4hbB8anZ9B2yAI3uW5lVd&html=&pos=1&folt=kw)
+
+- [First-order State Space Model for Lightweight Image Super-resolution](https://ieeexplore.ieee.org/abstract/document/10887656) (Mar, 2025)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10887656)
+
 
 
 ### Image Deraining
