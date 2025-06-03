@@ -285,6 +285,9 @@
 - [HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution](https://arxiv.org/pdf/2501.18500) (Jan, 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.18500)
 
+- [Bidirectional-Aware Network Combining Transformer and Mamba for Hyperspectral Image Denoising](https://ieeexplore.ieee.org/abstract/document/10980204/) (IEEE TGRS)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10980204/)
+
 
 
 ### UnderWater Image
