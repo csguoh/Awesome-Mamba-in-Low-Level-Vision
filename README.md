@@ -132,6 +132,11 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10887656)
 
 
+- [A Collaborative Network of Mamba and CNN for Lightweight Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/11010097) (May, 2025)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/11010097)
+
+
+
 
 ### Image Deraining
 - [FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining](https://arxiv.org/abs/2404.09476) (ACM MM 2024)   
