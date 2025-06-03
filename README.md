@@ -356,6 +356,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.21773)
 [![Star](https://img.shields.io/github/stars/TonyHongtaoWu/RainMamba.svg?style=social&label=Star)](https://github.com/TonyHongtaoWu/RainMamba)
 
+- [Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining](https://arxiv.org/pdf/2505.16811) (May, 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.16811)
 
 
 
