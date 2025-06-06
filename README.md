@@ -15,6 +15,9 @@
 - **2025-01-24** Contrast, the novel hybrid architecture of Mamba and Transformer, has been published! Congratulations! 🎉
 - **2025-01-25** VISGA, a novel Mamba-based Blind IQA method has been accepted by IEEE TCSVT!
 - **2025-02-27** MambaIRv2, MambaIC and MaIR are accepted by CVPR 2025! 🎉🎉🎉
+- **2025-06-06** MamEVSR for event carmera video restoration has been accepted by CVPR 2025!
+
+
 
 
 ## Table of Contents <!-- omit in toc -->
@@ -358,6 +361,13 @@
 
 - [Semi-Supervised State-Space Model with Dynamic Stacking Filter for Real-World Video Deraining](https://arxiv.org/pdf/2505.16811) (May, 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.16811)
+
+
+- [Event-based Video Super-Resolution via State Space Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Event-based_Video_Super-Resolution_via_State_Space_Models_CVPR_2025_paper.pdf) (CVPR 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Event-based_Video_Super-Resolution_via_State_Space_Models_CVPR_2025_paper.pdf)
+
+
+
 
 
 
