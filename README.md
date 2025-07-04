@@ -92,8 +92,8 @@
 
 
 - [EAMamba: Efficient All-Around Vision State Space Model for Image Restoration](https://arxiv.org/pdf/2506.22246) (ICCV2025)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://github.com/daidaijr/EAMamba)
-
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.22246)
+[![Star](https://img.shields.io/github/stars/wenjuan7275/MatIR.svg?style=social&label=Star)](https://github.com/daidaijr/EAMamba)
 
 
 ### All-in-one Image Restoration
