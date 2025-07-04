@@ -16,6 +16,8 @@
 - **2025-01-25** VISGA, a novel Mamba-based Blind IQA method has been accepted by IEEE TCSVT!
 - **2025-02-27** MambaIRv2, MambaIC and MaIR are accepted by CVPR 2025! 🎉🎉🎉
 - **2025-06-06** MamEVSR for event carmera video restoration has been accepted by CVPR 2025!
+- **2025-07-04** EAMamba has been accepted by ICCV2025!
+
 
 
 
@@ -88,6 +90,9 @@
 - [RestorMamba: An Enhanced Synergistic State Space Model for Image Restoration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10889889) (ICASSP2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10889889)
 
+
+- [EAMamba: Efficient All-Around Vision State Space Model for Image Restoration](https://arxiv.org/pdf/2506.22246) (ICCV2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://github.com/daidaijr/EAMamba)
 
 
 
@@ -366,7 +371,8 @@
 - [Event-based Video Super-Resolution via State Space Models](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Event-based_Video_Super-Resolution_via_State_Space_Models_CVPR_2025_paper.pdf) (CVPR 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Event-based_Video_Super-Resolution_via_State_Space_Models_CVPR_2025_paper.pdf)
 
-
+- [VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](https://www.arxiv.org/abs/2506.22762) (July 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2506.22762)
 
 
 
