@@ -278,6 +278,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10833852/)
 
 
+- [Rep-Mamba: Re-parameterization in Vision Mamba for Lightweight Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/11122524) (IEEE GRS)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/11122524)
+
 
 
 ### Hyperspectral Image
