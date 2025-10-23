@@ -101,6 +101,8 @@
 - [RamIR: Reasoning and action prompting with Mamba for all-in-one image restoration](https://link.springer.com/article/10.1007/s10489-024-06226-y) (Jan, 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://link.springer.com/article/10.1007/s10489-024-06226-y)
 
+- [All-in-one weather image restoration: Multi-modal attention and Bi-Directional Mamba Fusion](https://www.sciencedirect.com/science/article/abs/pii/S0925231225021034) (OCt, 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.sciencedirect.com/science/article/abs/pii/S0925231225021034)
 
 
 
