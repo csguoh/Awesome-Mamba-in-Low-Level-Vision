@@ -17,7 +17,7 @@
 - **2025-02-27** MambaIRv2, MambaIC and MaIR are accepted by CVPR 2025! 🎉🎉🎉
 - **2025-06-06** MamEVSR for event carmera video restoration has been accepted by CVPR 2025!
 - **2025-07-04** EAMamba has been accepted by ICCV2025!
-
+- **2025-10-26** Add paper categroy of Event Camera
 
 
 
@@ -38,6 +38,7 @@
 - [UnderWater Image](#underwater-image)
 - [Image Quality Assessment](#image-quality-assessment)
 - [Medical Image](#medical-image)
+- [Event Camera](#event-camera)
 - [Video Restoration](#video-restoration)
 
 
@@ -358,6 +359,10 @@
 
 - [Visual State Space Model with Graph-Based Feature Aggregation for Blind Image Quality Assessment](IEEE TCSVT, 2025)
 - [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10845143)
+
+### Event Camera
+- [EVDM: Event-based Real-world Video Deblurring with Mamba](ICCV, 2025)
+- [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_EVDM_Event-based_Real-world_Video_Deblurring_with_Mamba_ICCV_2025_paper.pdf)
 
 
 
