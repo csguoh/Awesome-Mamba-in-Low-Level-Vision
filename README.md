@@ -139,9 +139,9 @@
 ) (Neurocomputing 2025)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://scholar.google.com.hk/scholar_url?url=https://papers.ssrn.com/sol3/Delivery.cfm%3Fabstractid%3D5029803&hl=zh-CN&sa=X&d=8563363092835299237&ei=MteTZ-fxFMHey9YP_5HSoQc&scisig=AFWwaeaQUXqvxfBgIVsqxJWViY3c&oi=scholaralrt&hist=fRwhfpoAAAAJ:1447826319281170878:AFWwaea4hbB8anZ9B2yAI3uW5lVd&html=&pos=1&folt=kw)
 
-- [First-order State Space Model for Lightweight Image Super-resolution](https://ieeexplore.ieee.org/abstract/document/10887656) (Mar, 2025)   
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10887656)
-
+- [First-order State Space Model for Lightweight Image Super-resolution](https://ieeexplore.ieee.org/abstract/document/10887656) (ICASSP2025)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.08458)
+[![Star](https://img.shields.io/github/stars/Edlinf/FMambaIR.svg?style=social&label=Star)](https://github.com/Edlinf/FMambaIR)
 
 - [A Collaborative Network of Mamba and CNN for Lightweight Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/11010097) (May, 2025)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/11010097)
