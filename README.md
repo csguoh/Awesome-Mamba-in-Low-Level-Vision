@@ -261,6 +261,9 @@
 - [FMamba: Multimodal Image Fusion Driven by State Space Models](https://ieeexplore.ieee.org/abstract/document/10750233) (Nov, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10750233)
 
+- [Interactive Spatial-Frequency Fusion Mamba for Multi-Modal Image Fusion](https://arxiv.org/pdf/2602.04405) (Feb,2026)   
+
+
 
 
 ### Remote Sensing Image
