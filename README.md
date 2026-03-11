@@ -18,7 +18,7 @@
 - **2025-06-06** MamEVSR for event carmera video restoration has been accepted by CVPR 2025!
 - **2025-07-04** EAMamba has been accepted by ICCV2025!
 - **2025-10-26** Add paper categroy of Event Camera
-
+- **2026-03-11** Add Mamba for SR papers from PR and IEEE TMM
 
 
 
@@ -145,6 +145,11 @@
 
 - [A Collaborative Network of Mamba and CNN for Lightweight Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/11010097) (May, 2025)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/11010097)
+
+- [HMSR: Hypercomplex-Guided Mamba for Fine-Texture Coupling in Single Image Super-Resolution](https://www.sciencedirect.com/science/article/pii/S0031320326003687) (Mar, 2026 | Pattern Recognition) 
+
+
+- [PropMambaSR: Lightweight Image Super-Resolution with Propagation State Space Model](https://ieeexplore.ieee.org/abstract/document/11417188/) (Mar, 2026 | IEEE TMM)
 
 
 
