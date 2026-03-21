@@ -19,7 +19,7 @@
 - **2025-07-04** EAMamba has been accepted by ICCV2025!
 - **2025-10-26** Add paper categroy of Event Camera
 - **2026-03-11** Add Mamba for SR papers from PR and IEEE TMM
-
+- **2026-03-21** Add papers accepted by AAAI2026.
 
 
 ## Table of Contents <!-- omit in toc -->
@@ -336,6 +336,8 @@
 - [UWMamba: UnderWater Image Enhancement With State Space Model](https://ieeexplore.ieee.org/abstract/document/10700679) (Oct, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10700679)
 
+- [PGMamba: A Physical Model-Guided Global Mamba for Underwater Image Enhancement]() (AAAI 2026)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]()
 
 
 
@@ -403,6 +405,11 @@
 
 - [VmambaSCI: Dynamic Deep Unfolding Network with Mamba for Compressive Spectral Imaging](https://openreview.net/pdf?id=MNvMDbaQXa) (ACM MM 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/pdf?id=MNvMDbaQXa)
+
+
+
+- [RASLF: Representation-Aware State Space Model for Light Field Super-Resolution](https://arxiv.org/pdf/2603.16243) (Mar 2026)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2603.16243)
 
 
 
