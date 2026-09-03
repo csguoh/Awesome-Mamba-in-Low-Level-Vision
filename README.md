@@ -20,6 +20,7 @@
 - **2025-10-26** Add paper categroy of Event Camera
 - **2026-03-11** Add Mamba for SR papers from PR and IEEE TMM
 - **2026-03-21** Add papers accepted by AAAI2026.
+- **2026-09-01** BurstMamba has been accepted by SIGGRAPH Asia 2026!
 
 
 ## Table of Contents <!-- omit in toc -->
@@ -123,7 +124,8 @@
 - [QMambaBSR: Burst Image Super-Resolution with Query State Space Model](https://arxiv.org/pdf/2408.08665) (Aug, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.08665)
 
-
+- [Keyframe-Centric State-Space Modeling for Burst Image Super-Resolution](https://arxiv.org/abs/2503.19634) (Dec, 2026 | ACM SIGGRAPH Asia)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.19634)
 
 - [MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs](https://arxiv.org/pdf/2408.11758) (Aug, 2024)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.11758)
