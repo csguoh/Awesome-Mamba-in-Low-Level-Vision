@@ -72,7 +72,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.15269)
 [![Star](https://img.shields.io/github/stars/csguoh/MambaIR.svg?style=social&label=Star)](https://github.com/csguoh/MambaIR)
 
-- [MaIR: A Locality and Continuity Preserving Mamba for Image Restoration](https://arxiv.org/pdf/2411.15269) (CVPR2025)  
+- [MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration](https://arxiv.org/abs/2412.20066) (CVPR2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.20066)
 [![Star](https://img.shields.io/github/stars/XLearning-SCU/2025-CVPR-MaIR.svg?style=social&label=Star)](https://github.com/XLearning-SCU/2025-CVPR-MaIR)
 
@@ -95,7 +95,7 @@
 
 - [EAMamba: Efficient All-Around Vision State Space Model for Image Restoration](https://arxiv.org/pdf/2506.22246) (ICCV2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.22246)
-[![Star](https://img.shields.io/github/stars/wenjuan7275/MatIR.svg?style=social&label=Star)](https://github.com/daidaijr/EAMamba)
+[![Star](https://img.shields.io/github/stars/daidaijr/EAMamba.svg?style=social&label=Star)](https://github.com/daidaijr/EAMamba)
 
 
 ### All-in-one Image Restoration
@@ -168,7 +168,7 @@
 
   
 - [A Hybrid Transformer-Mamba Network for Single Image Deraining](https://arxiv.org/pdf/2409.00410) (Sep, 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.03349)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.00410)
 [![Star](https://img.shields.io/github/stars/sunshangquan/TransMamba.svg?style=social&label=Star)](https://github.com/sunshangquan/TransMamba)
 
 
@@ -306,7 +306,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.09697)
 
 
-- [Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging](https://arxiv.org/abs/2405.01726) (June, 2024)  
+- [Dual Hyperspectral Mamba for Efficient Spectral Compressive Imaging](https://arxiv.org/abs/2406.00449) (June, 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.00449)
 [![Star](https://img.shields.io/github/stars/JiahuaDong/DHM.svg?style=social&label=Star)](https://github.com/JiahuaDong/DHM)
 
@@ -331,7 +331,7 @@
 
 
 - [O-Mamba: O-shape State-Space Model for Underwater Image Enhancement](https://arxiv.org/pdf/2408.12816) (Aug, 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2406.08444)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2408.12816)
 [![Star](https://img.shields.io/github/stars/chenydong/O-Mamba.svg?style=social&label=Star)](https://github.com/chenydong/O-Mamba)
 
 
@@ -369,12 +369,12 @@
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2409.13094)
 
 
-- [Visual State Space Model with Graph-Based Feature Aggregation for Blind Image Quality Assessment](IEEE TCSVT, 2025)
-- [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10845143)
+- [Visual State Space Model with Graph-Based Feature Aggregation for Blind Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/10845143) (IEEE TCSVT, 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10845143)
 
 ### Event Camera
-- [EVDM: Event-based Real-world Video Deblurring with Mamba](ICCV, 2025)
-- [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_EVDM_Event-based_Real-world_Video_Deblurring_with_Mamba_ICCV_2025_paper.pdf)
+- [EVDM: Event-based Real-world Video Deblurring with Mamba](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_EVDM_Event-based_Real-world_Video_Deblurring_with_Mamba_ICCV_2025_paper.pdf) (ICCV, 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_EVDM_Event-based_Real-world_Video_Deblurring_with_Mamba_ICCV_2025_paper.pdf)
 
 
 
